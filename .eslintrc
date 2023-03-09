@@ -1,0 +1,7 @@
+{
+    "extends": "@pxseu/eslint-config",
+    "rules": {
+        "import/extensions": "off",
+        "@typescript-eslint/indent": "off"
+    }
+}
