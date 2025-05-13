@@ -1,3 +1,7 @@
+# Code moved into the monorepo
+
+New code locartion is at [pxseu.com/server](https://github.com/pxseu/pxseu.com/tree/senpai/server)
+
 # [www.pxseu.com](https://www.pxseu.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com)
